@@ -1,0 +1,10 @@
+# Build results
+bin/
+obj/
+*.exe
+*.dll
+*.pdb
+
+# User-specific files
+.vs/
+.vscode/
